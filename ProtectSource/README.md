@@ -1,9 +1,9 @@
-Protect The Land
+Protect
 
 by Patrick Pacheco
 West Sacramento, CA USA
 
-This is a simple defend from bombardment game, 
+This is a simple defend from bombardment game,
 where I tried to use a combination of techniques learned from the pong and mario tutorials.
 
 I decided to not implement animation for aesthetic reasons.  I wanted to have an old time arcade feel.
